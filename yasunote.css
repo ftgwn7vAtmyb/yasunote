@@ -1,16 +1,36 @@
+.yasu {
+	font-size: 16px;
+	background-color: #ebebeb;
+}
+
 .ore {
 	color: tomato;
-	background-color: #e1e1e1
+}
+
+.rem {
+	font-size: 16px;
+	background-color: #fbfbb9;
+	padding: 20px;
 }
 
 body {
 	font-size: 18px;
-	color: #08131a
+	color: #08131a;
 }
 
 article {
 	width: 640px;
 	margin-left: 640px;
+	line-height: 2;
+}
+
+.pr {
+	border: 2px dotted lightblue;
+	padding: 20px;
+}
+
+.matome {
+	font-size: 22px;
 	line-height: 2;
 }
 
@@ -33,3 +53,14 @@ text-decoration: none;
 	font-size: 14px;
 	background-color: #f8f8ff;
 	padding: 10px;
+}
+	
+.rainbow {
+	margin-top : 1000px;
+	background: linear-gradient(to right,#e60000,#f39800,#fff100,#009944,#0068b7,#1d2088,#920783);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 400%;
+    font-weight: bold;
+    display: inline-block;
+}
