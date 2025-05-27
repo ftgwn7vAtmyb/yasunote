@@ -1,0 +1,35 @@
+.ore {
+	color: tomato;
+	background-color: #e1e1e1
+}
+
+body {
+	font-size: 18px;
+	color: #08131a
+}
+
+article {
+	width: 640px;
+	margin-left: 640px;
+	line-height: 2;
+}
+
+.toc {
+color: gray;
+text-decoration: none;
+}
+.toc:hover{
+	color: #08131a;
+}
+
+.toc-header {
+	font-size: 14px;
+	cursor: pointer;
+	background-color: #f8f8ff;
+	padding: 12px;
+}
+
+.toc-content {
+	font-size: 14px;
+	background-color: #f8f8ff;
+	padding: 10px;
