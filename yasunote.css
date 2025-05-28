@@ -20,7 +20,7 @@ body {
 
 article {
 	width: 640px;
-	margin-left: 640px;
+	margin: 0 auto;
 	line-height: 2;
 }
 
